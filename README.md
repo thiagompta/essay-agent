@@ -14,7 +14,7 @@ Tudo isso usando **Gemini**, **LangGraph**, **Tavily** e **Gradio**.
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/SEU_USUARIO/essay-agent.git
+git clone https://github.com/thiagompta/essay-agent.git
 cd essay-agent
 2. Crie e ative um ambiente virtual
 python -m venv venv
